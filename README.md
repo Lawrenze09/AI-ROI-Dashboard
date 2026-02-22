@@ -16,10 +16,10 @@ These are the core automation systems that power the data in this dashboard. Cli
 ### 1. Intelligent Document Processing (IDP)
 * **Context:** Automated the extraction of 100+ invoice records from multi-page PDFs.
 * **Impact:** Reduced manual data entry time by 701 minutes.
-* **Technical Repo for reference:** [🔗 View IDP Workflow & Blueprint](https://github.com/Lawrenze09/AI-Invoice-Automation-Pipeline)
+* **Technical Repo for reference:** [View IDP Workflow & Blueprint](https://github.com/Lawrenze09/AI-Invoice-Automation-Pipeline)
 
 <details>
-<summary>📸 Click to view IDP Workflow Screenshot</summary>
+<summary>Click to view IDP Workflow Screenshot</summary>
 
 ![IDP Workflow](Workflow%20for%20IDP.png)
 </details>
@@ -29,10 +29,10 @@ These are the core automation systems that power the data in this dashboard. Cli
 ### 2. Automated Customer Intelligence (ACI)
 * **Context:** Built a low-code system to analyze sentiment and automate customer inquiry responses with a Human-in-the-Loop audit.
 * **Impact:** Processed 43 high-complexity queries, saving 320 minutes.
-* **Technical Repo for reference:** [🔗 View ACI Workflow & Blueprint](https://github.com/Lawrenze09/Automated-Customer-Inquiry-System)
+* **Technical Repo for reference:** [View ACI Workflow & Blueprint](https://github.com/Lawrenze09/Automated-Customer-Inquiry-System)
 
 <details>
-<summary>📸 Click to view ACI Workflow Screenshots (Part 1 & 2)</summary>
+<summary>Click to view ACI Workflow Screenshots (Part 1 & 2)</summary>
 
 #### Part 1:
 ![ACI Workflow Part 1](Workflow%20for%20ACI.png)
@@ -54,4 +54,4 @@ To ensure realistic business metrics, I implemented a unified formula in Notion:
 ![Notion ROI Dashboard](Notion%20AI%20ROI%20Dashboard.png)
 
 ---
-🔗 **[Live Notion Dashboard](https://www.notion.so/AI-ROI-Dashboard-305111cb5fac80df9ff7dffc836825ef?source=copy_link)**
+**[Live Notion Dashboard](https://www.notion.so/AI-ROI-Dashboard-305111cb5fac80df9ff7dffc836825ef?source=copy_link)**
